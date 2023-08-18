@@ -1,5 +1,3 @@
-# MFS-Seg
-Multi-scale Full Spike Pattern for Semantic Segmentation
 
 This is the official repository for our work;
 The _ddd17 folder is used to process the ddd17 dataset. 
